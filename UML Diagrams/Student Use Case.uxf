@@ -45,19 +45,20 @@ calander events</panel_attributes>
       <w>190</w>
       <h>80</h>
     </coordinates>
-    <panel_attributes>Add repeating personal
+    <panel_attributes>Add repeating calander
 events</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>650</x>
-      <y>370</y>
+      <x>640</x>
+      <y>460</y>
       <w>190</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>Receive notification</panel_attributes>
+    <panel_attributes>Receive 
+notifications/reminders</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -98,10 +99,32 @@ events</panel_attributes>
     <coordinates>
       <x>390</x>
       <y>210</y>
-      <w>280</w>
-      <h>210</h>
+      <w>270</w>
+      <h>300</h>
     </coordinates>
     <panel_attributes>lt=-&gt;&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;260.0;190.0</additional_attributes>
+    <additional_attributes>10.0;10.0;250.0;280.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>630</x>
+      <y>370</y>
+      <w>210</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Add personal events</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>390</x>
+      <y>210</y>
+      <w>260</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;240.0;180.0</additional_attributes>
   </element>
 </diagram>
