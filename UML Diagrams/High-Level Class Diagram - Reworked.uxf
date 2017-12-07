@@ -15,12 +15,12 @@
   <element>
     <type>com.baselet.element.old.element.Class</type>
     <coordinates>
-      <x>572</x>
-      <y>121</y>
+      <x>55</x>
+      <y>396</y>
       <w>121</w>
-      <h>44</h>
+      <h>33</h>
     </coordinates>
-    <panel_attributes>Clock</panel_attributes>
+    <panel_attributes>Timer</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -265,16 +265,16 @@ Used by</panel_attributes>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>671</x>
-      <y>297</y>
-      <w>135</w>
-      <h>186</h>
+      <x>374</x>
+      <y>440</y>
+      <w>362</w>
+      <h>99</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=  0..*
 m2=1
         Generates </panel_attributes>
-    <additional_attributes>110;165;110;77;33;77;33;33</additional_attributes>
+    <additional_attributes>341;33;220;33;220;77;132;77;33;77</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
@@ -434,30 +434,52 @@ Creates</panel_attributes>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>308</x>
-      <y>297</y>
-      <w>296</w>
-      <h>230</h>
+      <x>275</x>
+      <y>121</y>
+      <w>1022</w>
+      <h>197</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-m1=     0..*
-m2=1
+    <panel_attributes>lt=&lt;--&gt;
 Generates</panel_attributes>
-    <additional_attributes>33;209;33;121;275;121;275;33</additional_attributes>
+    <additional_attributes>33;176;33;55;1001;55;1001;176</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>561</x>
-      <y>132</y>
-      <w>142</w>
-      <h>186</h>
+      <x>264</x>
+      <y>308</y>
+      <w>54</w>
+      <h>219</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;- -&gt;</panel_attributes>
+    <additional_attributes>33;33;33;198</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>55</x>
+      <y>264</y>
+      <w>208</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=0**
+m2=1
+Starts</panel_attributes>
+    <additional_attributes>55;132;55;55;187;55</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>33</x>
+      <y>396</y>
+      <w>274</w>
+      <h>143</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=1
 m2=1
-Knows time
-through</panel_attributes>
-    <additional_attributes>77;33;77;165</additional_attributes>
+Is related to</panel_attributes>
+    <additional_attributes>253;121;77;121;77;33</additional_attributes>
   </element>
 </diagram>

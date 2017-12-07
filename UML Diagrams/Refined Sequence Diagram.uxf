@@ -4,8 +4,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>44</x>
-      <y>0</y>
+      <x>66</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>264</x>
-      <y>0</y>
+      <x>286</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -26,8 +26,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>704</x>
-      <y>0</y>
+      <x>726</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -37,8 +37,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1177</x>
-      <y>0</y>
+      <x>1199</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -48,8 +48,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>484</x>
-      <y>0</y>
+      <x>506</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -59,8 +59,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>935</x>
-      <y>0</y>
+      <x>957</x>
+      <y>44</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -70,8 +70,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>88</x>
-      <y>33</y>
+      <x>110</x>
+      <y>77</y>
       <w>22</w>
       <h>561</h>
     </coordinates>
@@ -81,8 +81,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>132</y>
+      <x>121</x>
+      <y>176</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -93,8 +93,8 @@ Enters Login Details</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>88</y>
+      <x>121</x>
+      <y>132</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -105,8 +105,8 @@ Promps for Login</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>220</y>
+      <x>121</x>
+      <y>352</y>
       <w>451</w>
       <h>44</h>
     </coordinates>
@@ -117,8 +117,8 @@ Creates event </panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>451</y>
+      <x>341</x>
+      <y>495</y>
       <w>451</w>
       <h>44</h>
     </coordinates>
@@ -129,8 +129,8 @@ Checks for event clash</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>495</y>
+      <x>341</x>
+      <y>539</y>
       <w>451</w>
       <h>44</h>
     </coordinates>
@@ -141,8 +141,8 @@ Return event clash verification</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>154</y>
+      <x>341</x>
+      <y>198</y>
       <w>154</w>
       <h>44</h>
     </coordinates>
@@ -153,8 +153,8 @@ Validate Login</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>44</y>
+      <x>121</x>
+      <y>88</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -165,8 +165,8 @@ Opens</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>66</y>
+      <x>330</x>
+      <y>110</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -176,8 +176,8 @@ Opens</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>154</y>
+      <x>330</x>
+      <y>198</y>
       <w>22</w>
       <h>55</h>
     </coordinates>
@@ -187,8 +187,8 @@ Opens</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>176</y>
+      <x>341</x>
+      <y>220</y>
       <w>154</w>
       <h>44</h>
     </coordinates>
@@ -199,8 +199,8 @@ Logs user in</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>528</x>
-      <y>242</y>
+      <x>550</x>
+      <y>374</y>
       <w>22</w>
       <h>55</h>
     </coordinates>
@@ -210,10 +210,10 @@ Logs user in</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>286</y>
+      <x>330</x>
+      <y>275</y>
       <w>22</w>
-      <h>99</h>
+      <h>55</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -221,8 +221,8 @@ Logs user in</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>275</y>
+      <x>121</x>
+      <y>264</y>
       <w>231</w>
       <h>55</h>
     </coordinates>
@@ -234,8 +234,8 @@ event choice</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>319</y>
+      <x>121</x>
+      <y>308</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -246,8 +246,8 @@ Enters event choice</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>363</y>
+      <x>121</x>
+      <y>429</y>
       <w>231</w>
       <h>55</h>
     </coordinates>
@@ -259,8 +259,8 @@ date and time</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>407</y>
+      <x>121</x>
+      <y>473</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -271,10 +271,10 @@ Enters date and time</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>429</y>
+      <x>330</x>
+      <y>451</y>
       <w>22</w>
-      <h>44</h>
+      <h>66</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -282,8 +282,8 @@ Enters date and time</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>748</x>
-      <y>473</y>
+      <x>770</x>
+      <y>517</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -293,8 +293,8 @@ Enters date and time</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>572</y>
+      <x>341</x>
+      <y>616</y>
       <w>924</w>
       <h>44</h>
     </coordinates>
@@ -305,8 +305,8 @@ Begins timer for event</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1221</x>
-      <y>594</y>
+      <x>1243</x>
+      <y>638</y>
       <w>22</w>
       <h>44</h>
     </coordinates>
@@ -316,8 +316,8 @@ Begins timer for event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>99</x>
-      <y>572</y>
+      <x>121</x>
+      <y>616</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -328,8 +328,8 @@ Confirms Event creation</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1221</x>
-      <y>737</y>
+      <x>1243</x>
+      <y>781</y>
       <w>22</w>
       <h>33</h>
     </coordinates>
@@ -339,8 +339,8 @@ Confirms Event creation</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1232</x>
-      <y>715</y>
+      <x>1254</x>
+      <y>759</y>
       <w>143</w>
       <h>44</h>
     </coordinates>
@@ -351,8 +351,8 @@ Checks timer</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>748</y>
+      <x>341</x>
+      <y>792</y>
       <w>935</w>
       <h>44</h>
     </coordinates>
@@ -363,8 +363,8 @@ Timer expired!</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>770</y>
+      <x>330</x>
+      <y>814</y>
       <w>22</w>
       <h>33</h>
     </coordinates>
@@ -374,8 +374,8 @@ Timer expired!</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>781</y>
+      <x>341</x>
+      <y>825</y>
       <w>682</w>
       <h>44</h>
     </coordinates>
@@ -386,30 +386,7 @@ Creates notification</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>979</x>
-      <y>803</y>
-      <w>22</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>99</x>
-      <y>825</y>
-      <w>902</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-Notifies user of event</panel_attributes>
-    <additional_attributes>10.0;20.0;800.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>88</x>
+      <x>1001</x>
       <y>847</y>
       <w>22</w>
       <h>44</h>
@@ -420,8 +397,31 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1221</x>
-      <y>22</y>
+      <x>121</x>
+      <y>869</y>
+      <w>902</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+Notifies user of event</panel_attributes>
+    <additional_attributes>10.0;20.0;800.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>110</x>
+      <y>891</y>
+      <w>22</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1243</x>
+      <y>66</y>
       <w>33</w>
       <h>594</h>
     </coordinates>
@@ -431,8 +431,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>979</x>
-      <y>22</y>
+      <x>1001</x>
+      <y>66</y>
       <w>33</w>
       <h>803</h>
     </coordinates>
@@ -442,8 +442,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1221</x>
-      <y>627</y>
+      <x>1243</x>
+      <y>671</y>
       <w>33</w>
       <h>132</h>
     </coordinates>
@@ -453,8 +453,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1221</x>
-      <y>759</y>
+      <x>1243</x>
+      <y>803</y>
       <w>33</w>
       <h>187</h>
     </coordinates>
@@ -464,8 +464,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>979</x>
-      <y>836</y>
+      <x>1001</x>
+      <y>880</y>
       <w>33</w>
       <h>110</h>
     </coordinates>
@@ -475,8 +475,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>748</x>
-      <y>22</y>
+      <x>770</x>
+      <y>66</y>
       <w>33</w>
       <h>473</h>
     </coordinates>
@@ -486,8 +486,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>748</x>
-      <y>506</y>
+      <x>770</x>
+      <y>550</y>
       <w>33</w>
       <h>66</h>
     </coordinates>
@@ -497,30 +497,30 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>528</x>
-      <y>22</y>
+      <x>550</x>
+      <y>66</y>
       <w>33</w>
-      <h>242</h>
+      <h>330</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;200.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;280.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>528</x>
-      <y>286</y>
+      <x>550</x>
+      <y>418</y>
       <w>33</w>
-      <h>660</h>
+      <h>572</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;580.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;500.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>308</x>
-      <y>517</y>
+      <x>330</x>
+      <y>561</y>
       <w>22</w>
       <h>77</h>
     </coordinates>
@@ -530,8 +530,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>308</x>
-      <y>99</y>
+      <x>330</x>
+      <y>143</y>
       <w>33</w>
       <h>77</h>
     </coordinates>
@@ -541,8 +541,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>308</x>
-      <y>22</y>
+      <x>330</x>
+      <y>66</y>
       <w>33</w>
       <h>66</h>
     </coordinates>
@@ -552,52 +552,19 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>308</x>
-      <y>198</y>
+      <x>330</x>
+      <y>242</y>
       <w>33</w>
-      <h>110</h>
+      <h>55</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>308</x>
-      <y>374</y>
-      <w>33</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>308</x>
-      <y>462</y>
-      <w>33</w>
-      <h>77</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>308</x>
-      <y>583</y>
-      <w>33</w>
-      <h>209</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;170.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>308</x>
-      <y>792</y>
+      <x>330</x>
+      <y>319</y>
       <w>33</w>
       <h>154</h>
     </coordinates>
@@ -607,8 +574,41 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>583</y>
+      <x>330</x>
+      <y>506</y>
+      <w>33</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>627</y>
+      <w>33</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;170.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>836</y>
+      <w>33</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>110</x>
+      <y>627</y>
       <w>33</w>
       <h>286</h>
     </coordinates>
@@ -618,8 +618,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>880</y>
+      <x>110</x>
+      <y>924</y>
       <w>33</w>
       <h>66</h>
     </coordinates>
@@ -629,8 +629,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>748</x>
-      <y>550</y>
+      <x>770</x>
+      <y>594</y>
       <w>22</w>
       <h>22</h>
     </coordinates>
@@ -640,8 +640,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>748</x>
-      <y>561</y>
+      <x>770</x>
+      <y>605</y>
       <w>33</w>
       <h>385</h>
     </coordinates>
@@ -651,8 +651,8 @@ Notifies user of event</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>319</x>
-      <y>528</y>
+      <x>341</x>
+      <y>572</y>
       <w>451</w>
       <h>44</h>
     </coordinates>
