@@ -1,6 +1,3 @@
-# SDAQ-Assignment
-
-1. git pull 
-2. git add.
-3. git commit -m ""
-4. git push
+Hi Paul, 
+i was trying to do the doxygen thing for this document but whenever i tried, it wouldnt produce an RTF document. 
+I have put the documents it does produce in the file though.
